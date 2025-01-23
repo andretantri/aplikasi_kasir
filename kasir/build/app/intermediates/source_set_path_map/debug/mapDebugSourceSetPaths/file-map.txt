@@ -1,0 +1,27 @@
+com.kasir.unrandomdev.kasir.app-jetified-window-1.2.0-0 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\04c6822ae9874924e58a3845062053ab\transformed\jetified-window-1.2.0\res
+com.kasir.unrandomdev.kasir.app-jetified-lifecycle-process-2.7.0-1 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\0902ae86b4a2291b5f911e3d88b94bcf\transformed\jetified-lifecycle-process-2.7.0\res
+com.kasir.unrandomdev.kasir.app-jetified-annotation-experimental-1.4.0-2 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\0b9425e5358f2bdbfdc6ce1ce59551f2\transformed\jetified-annotation-experimental-1.4.0\res
+com.kasir.unrandomdev.kasir.app-jetified-core-1.0.0-3 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\0ca86624e6c4a768fd1a381327157cd6\transformed\jetified-core-1.0.0\res
+com.kasir.unrandomdev.kasir.app-lifecycle-livedata-2.7.0-4 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\19a4c47ea7fd9e61f5e559ed5c13af8c\transformed\lifecycle-livedata-2.7.0\res
+com.kasir.unrandomdev.kasir.app-core-1.13.1-5 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\2c1755571c3fe336f4c9dcc849df5700\transformed\core-1.13.1\res
+com.kasir.unrandomdev.kasir.app-core-runtime-2.2.0-6 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\31faf9db5bc78a9c4183a35d5c5f738b\transformed\core-runtime-2.2.0\res
+com.kasir.unrandomdev.kasir.app-jetified-tracing-1.2.0-7 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\3963ebb20a2c63f3dbcbb92ccbef8978\transformed\jetified-tracing-1.2.0\res
+com.kasir.unrandomdev.kasir.app-jetified-window-java-1.2.0-8 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\4b5e6ce84fe612ed9ef9427dfe85264f\transformed\jetified-window-java-1.2.0\res
+com.kasir.unrandomdev.kasir.app-lifecycle-livedata-core-2.7.0-9 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\5ea368c17672723b1455b4dd805ef544\transformed\lifecycle-livedata-core-2.7.0\res
+com.kasir.unrandomdev.kasir.app-lifecycle-viewmodel-2.7.0-10 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\801ff0023e51d699df6b44492753eb71\transformed\lifecycle-viewmodel-2.7.0\res
+com.kasir.unrandomdev.kasir.app-fragment-1.7.1-11 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\93b46a18fece145cde61074350db9c45\transformed\fragment-1.7.1\res
+com.kasir.unrandomdev.kasir.app-jetified-profileinstaller-1.3.1-12 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\a0128d27abe59870b537e259afac3a5e\transformed\jetified-profileinstaller-1.3.1\res
+com.kasir.unrandomdev.kasir.app-jetified-startup-runtime-1.1.1-13 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\ad89a829e8b8274908bec00c533d7833\transformed\jetified-startup-runtime-1.1.1\res
+com.kasir.unrandomdev.kasir.app-jetified-savedstate-1.2.1-14 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\b19247021ceb33c37e0223c603f95df9\transformed\jetified-savedstate-1.2.1\res
+com.kasir.unrandomdev.kasir.app-jetified-activity-1.8.1-15 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\b4d64fadad64aaa0c7a779596f7d874b\transformed\jetified-activity-1.8.1\res
+com.kasir.unrandomdev.kasir.app-jetified-lifecycle-livedata-core-ktx-2.7.0-16 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\ddd099a494f3b8d03910d2990a9df5af\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.kasir.unrandomdev.kasir.app-lifecycle-runtime-2.7.0-17 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\e9d2e3e8a00946ed3594633d2021bede\transformed\lifecycle-runtime-2.7.0\res
+com.kasir.unrandomdev.kasir.app-jetified-core-ktx-1.13.1-18 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\f1c1a8c15ea0bcff0ad974f9e4085a71\transformed\jetified-core-ktx-1.13.1\res
+com.kasir.unrandomdev.kasir.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-19 C:\Users\Andre Tantri Y\.gradle\caches\8.10.2\transforms\fb09008da1abfc09a07bb8503148e98a\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.kasir.unrandomdev.kasir.app-debug-20 D:\Flutter\kasir\kasir\android\app\src\debug\res
+com.kasir.unrandomdev.kasir.app-main-21 D:\Flutter\kasir\kasir\android\app\src\main\res
+com.kasir.unrandomdev.kasir.app-pngs-22 D:\Flutter\kasir\kasir\build\app\generated\res\pngs\debug
+com.kasir.unrandomdev.kasir.app-resValues-23 D:\Flutter\kasir\kasir\build\app\generated\res\resValues\debug
+com.kasir.unrandomdev.kasir.app-packageDebugResources-24 D:\Flutter\kasir\kasir\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.kasir.unrandomdev.kasir.app-packageDebugResources-25 D:\Flutter\kasir\kasir\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.kasir.unrandomdev.kasir.app-debug-26 D:\Flutter\kasir\kasir\build\app\intermediates\merged_res\debug\mergeDebugResources

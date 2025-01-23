@@ -1,0 +1,2 @@
+D:/Flutter/kasir/kasir/android/app/.cxx/RelWithDebInfo/1o5q6u36/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Flutter/kasir/kasir/android/app/.cxx/RelWithDebInfo/1o5q6u36/arm64-v8a/CMakeFiles/rebuild_cache.dir
